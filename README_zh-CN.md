@@ -186,11 +186,17 @@ kubectl apply -k deploy/k8s/overlays/prod
 
 > 完整文档索引：[docs/README_zh-CN.md](./docs/README_zh-CN.md)
 
-## GitHub Star 实时成长曲线
+## Star History
 
-通过 Star History 的实时图表追踪 LinkWork 的 GitHub Star 增长趋势：
-
-[![Star History Chart](https://api.star-history.com/svg?repos=momotech/LinkWork&type=Date)](https://star-history.com/#momotech/LinkWork&Date)
+<div align="center">
+<a href="https://star-history.com/#momotech/LinkWork&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=momotech/LinkWork&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=momotech/LinkWork&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=momotech/LinkWork&type=Date" width="680" />
+  </picture>
+</a>
+</div>
 
 ## 许可证
 
